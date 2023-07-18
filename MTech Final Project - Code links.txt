@@ -1,7 +1,0 @@
-DS 1 ResNet50 - https://colab.research.google.com/drive/1PG1TNtOUci4HezFmyxRorzkMxjngYutJ?authuser=1#scrollTo=0TPQ0_TgmLue
-
-DS 2 ResNet50 - https://colab.research.google.com/drive/1PG1TNtOUci4HezFmyxRorzkMxjngYutJ?authuser=1#scrollTo=0TPQ0_TgmLue
-
-DS 1 VGG16 - https://colab.research.google.com/drive/1dMUzM6wXNk03NkHXGcugeIUf7YAcJZij?authuser=1#scrollTo=y75qYRS25RNc
-
-DS 2 VGG16 - https://colab.research.google.com/drive/1dMUzM6wXNk03NkHXGcugeIUf7YAcJZij?authuser=1#scrollTo=0QQFR-imuwd7
